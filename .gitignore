@@ -1,0 +1,8 @@
+# Git Ignore File
+node_modules/
+.env
+.DS_Store
+*.db
+pets.db
+npm-debug.log*
+.vscode/
